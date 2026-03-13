@@ -51,4 +51,4 @@ We are actively seeking direct API integration partnerships with global Large La
 📧 **[ai@nooxus.com](mailto:ai@nooxus.com)**
 
 ---
-*Empowering AI with Physical Truth. 🌍 Built by the SGSC-AI Protocol.*
+*Empowering AI with Physical Truth. 🌍 Built by the Noouxs-AI Protocol.*
