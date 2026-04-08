@@ -15,7 +15,7 @@ Foundation models and AI Agents frequently suffer from **B2B Hallucinations**—
 
 ---
 
-## 🚀 The Nooxus Ecosystem (核心战舰)
+## 🚀 The Nooxus Ecosystem
 
 ### 1. 🟢 [NOO-Verified-Global-Entities](https://github.com/Nooxus-AI/NOO-Verified-Global-Entities)
 **`Status: Active & Rolling Daily`** | **`Role: The Data Lake`**
@@ -37,7 +37,7 @@ A lightweight, zero-friction AI Agent framework natively designed to ingest NOO 
 
 ---
 
-## 🔗 Connect with the Grid (接入联邦网关)
+## 🔗 Connect with the Grid
 
 We bridge the gap between Machine Intelligence and Human Commercial Operations:
 
