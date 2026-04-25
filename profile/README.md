@@ -14,6 +14,8 @@
 <br />
 
 ---
+<br />
+
 
 > **[ 🚀 ANGEL ROUND INVESTOR NOTICE / 天使轮国际融资公告 ]**
 >
@@ -25,6 +27,7 @@
 >
 > ✉️ **Contact:** Robert@nooxus.com  |  **CC:** RobertGlools@gmail.com
 
+<br />
 ---
 
 ## ⚠️ Our Mission: Building the Global Trade Collaboration Network for AI
