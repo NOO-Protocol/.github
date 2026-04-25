@@ -7,10 +7,11 @@
 [![Invest](https://img.shields.io/badge/Angel_Round-Active-success?style=for-the-badge&logo=cashapp)](mailto:Robert@nooxus.com)
 
 
+<br />
 
 > *The Agentic Web requires a new physics of trust. Nooxus-AI is architecting the sovereign infrastructure where machine intelligence meets irrefutable physical truth.*
 
-
+<br />
 
 ---
 
